@@ -1,1 +1,1 @@
-# OpenShift-Baremetal-4.15-connected-Platform 
+# OpenShift-Baremetal-4.17-connected-Platform 
